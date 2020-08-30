@@ -21,10 +21,10 @@ $(function() {
     };
     navbarFixed();
 
-    //------- Parallax -------//
-  skrollr.init({
-    forceHeight: false
-  });
+//     //------- Parallax -------//
+//   skrollr.init({
+//     forceHeight: false
+//   });
 
 
 
