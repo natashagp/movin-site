@@ -1150,7 +1150,7 @@ h3, .h3 {
   opacity: .5;
   position: absolute;
   bottom: -263px;
-  left: 70px;
+  left: 10px;
 }
 
 @media (min-width: 768px) {
